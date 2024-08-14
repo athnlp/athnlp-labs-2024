@@ -1,0 +1,15 @@
+{
+	"recommendations": [
+		"ms-python.python",
+		"ms-python.debugpy",
+		"charliermarsh.ruff",
+		"njpwerner.autodocstring",
+		"editorconfig.editorconfig",
+		"tamasfe.even-better-toml",
+		"nhoizey.gremlins",
+		"ms-toolsai.jupyter",
+		"gimenete.github-linker",
+		"bierner.github-markdown-preview",
+		"yahyabatulu.vscode-markdown-alert"
+	]
+}
