@@ -24,10 +24,21 @@ Here is a quick list of some useful tutorials to get you up to speed with Python
 * Tensor Broadcasting Puzzles: [https://github.com/srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) 
 
 
+
+
 ## Lab 1. Word Embeddings and Text Classification
 
 
+  
 ## Lab 2. Neural Language Modeling
+
+Gain a intuitive understanding of how autoregressive sequence modelling works, from raw text to model implementation and performing inference. By the end, you'll have a stronger understanding of how to plan, build, train, and use language models.
+
+
+[![Lab2InColab](https://img.shields.io/badge/Lab%202-Open%20in%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_2.ipynb)
+
+
+  
 
 
 
