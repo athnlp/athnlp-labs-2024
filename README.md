@@ -4,15 +4,21 @@ Exercises for the lab sessions of AthNLP 2024. Everything has been setup to run 
 
 The labs will cover the following topics:
 
-1. [Word Embeddings and Text Classification](#lab-1-word-embeddings-and-text-classification)
-2. [Neural Language Modeling](#lab-2-neural-language-modeling)
-3. [Sequence Structured Prediction](#lab-3-sequence-structured-prediction)
-4. [Transformers and Machine Translation](#lab-4-transformers-and-machine-translation)
-5. [Retrieval Augmented Generation with Large Language Models (RAG with LLMs)](#lab-5-retrieval-augmented-generation-with-large-language-models-rag-with-llms)
-6. [Vision and Language Models](#lab-6-vision-and-language-models)
+| Lab | Topic | Notebook (`.ipynb` File) | Colab Link |
+|:---:|:---|---|---|
+| 1 | Word Embeddings and Text Classification | `labs/` | |
+| 2 | Neural Language Modeling | [`labs/athnlp_lab_2.ipynb`](https://github.com/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_2.ipynb)  |
+| 3 | Sequence Structured Prediction  | `labs/` | |
+| 4 | Transformers and Machine Translation | `labs/` | |
+| 5 | Retrieval Augmented Generation with Large Language Models (RAG with LLMs) | `labs/` | |
+| 6 | Vision and Language Models | `labs/` | |
 
 
-## Lab 0. Introductory Material
+
+
+
+
+## Introductory Material
 
 Here is a quick list of some useful tutorials to get you up to speed with Python, Numpy and Pytorch:
 
@@ -23,29 +29,3 @@ Here is a quick list of some useful tutorials to get you up to speed with Python
   * [Tensors tutorial](https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html)
 * Tensor Broadcasting Puzzles: [https://github.com/srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) 
 
-
-
-
-## Lab 1. Word Embeddings and Text Classification
-
-
-  
-## Lab 2. Neural Language Modeling
-
-Gain a intuitive understanding of how autoregressive sequence modelling works, from raw text to model implementation and performing inference. By the end, you'll have a stronger understanding of how to plan, build, train, and use language models.
-
-
-[![Lab2InColab](https://img.shields.io/badge/Lab%202-Open%20in%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_2.ipynb)
-
-
-  
-
-
-
-## Lab 3. Sequence Structured Prediction
-
-## Lab 4. Transformers and Machine Translation
-
-## Lab 5. Retrieval Augmented Generation with Large Language Models (RAG with LLMs)
-
-## Lab 6. Vision and Language Models
