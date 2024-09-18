@@ -6,7 +6,7 @@ The labs will cover the following topics:
 
 | Lab | Topic | Notebook (`.ipynb` File) | Colab Link |
 |:---:|:---|---|---|
-| 1 | Word Embeddings and Text Classification | `labs/` | |
+| 1 | Word Embeddings and Text Classification | [`labs/athnlp_lab_2.ipynb`](https://github.com/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_1.ipynb)  |
 | 2 | Neural Language Modeling | [`labs/athnlp_lab_2.ipynb`](https://github.com/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_2.ipynb)  |
 | 3 | Sequence Structured Prediction  | [`labs/athnlp_lab_3.ipynb`](https://github.com/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_3.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_3.ipynb)  |
 | 4 | Transformers and Machine Translation | [`labs/athnlp_lab_4.ipynb`](https://github.com/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_4.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athnlp/athnlp-labs-2024/blob/main/labs/athnlp_lab_4.ipynb)  |
